@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 84feb8f2478eeb9439fb866e05977449
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - SFXSource: {instanceID: 0}
+  - shootSound: {fileID: 8300000, guid: 8596674c91390714aa1961d9d8df90cf, type: 3}
+  - rocketSound: {fileID: 8300000, guid: 9f5b3427accdf9442b6a6dd5c69665e3, type: 3}
+  - explosion: {fileID: 8300000, guid: ec9193fc7ef27104b8a5936a1e3931f0, type: 3}
+  - background: {fileID: 8300000, guid: d0c55c3a719ea5844b14c786910b1a2a, type: 3}
+  - MyMixer: {instanceID: 0}
+  - SoundMixer: {instanceID: 0}
+  - MusicMixer: {instanceID: 0}
+  - SFXMixer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
